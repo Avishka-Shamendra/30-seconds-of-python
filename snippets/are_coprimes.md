@@ -25,6 +25,6 @@ def are_coprimes(a,b):
 ```
 
 ```py
-print(are_coprimes(3,7)) # True
-print(are_coprimes(3,15)) # False
+are_coprimes(3,7) # True
+are_coprimes(3,15) # False
 ```
